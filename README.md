@@ -9,7 +9,7 @@ Wally package: `krxzy-zion-code/loader`
 Add this to your project's `wally.toml` under `[dependencies]`:
 
 ```toml
-Loader = "krxzy-zion-code/loader@0.1.1"
+Loader = "krxzy-zion-code/loader@^0.1.1"
 ```
 
 Then run:

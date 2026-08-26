@@ -8,4 +8,4 @@ realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
 
 [dependencies]
-logger = "krxzy-zion-code/logger@0.1.1"
+logger = "krxzy-zion-code/logger@^0.1.1"

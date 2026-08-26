@@ -9,7 +9,7 @@ Wally package: `krxzy-zion-code/loader`
 Add this to your project's `wally.toml` under `[dependencies]`:
 
 ```toml
-Loader = "krxzy-zion-code/loader@0.1.0"
+Loader = "krxzy-zion-code/loader@0.1.1"
 ```
 
 Then run:
@@ -20,6 +20,6 @@ wally install
 
 ## Publish
 
-Publish `krxzy-zion-code/logger` first, then run `wally publish` from this directory.
+Publish `krxzy-zion-code/logger@0.1.1` first, then run `wally publish` from this directory.
 
 Author: toxixsuff

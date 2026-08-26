@@ -1,11 +1,11 @@
 [package]
 name = "krxzy-zion-code/loader"
 description = "Lifecycle loader for Roblox services and controllers."
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 authors = ["toxixsuff"]
 realm = "shared"
 registry = "https://github.com/UpliftGames/wally-index"
 
 [dependencies]
-logger = "krxzy-zion-code/logger@0.1.0"
+logger = "krxzy-zion-code/logger@0.1.1"
